@@ -58,7 +58,7 @@ class _NovaPessoaState extends State<NovaPessoa> {
                 }
                 return null;
               }, */
-              builder: (state) {
+             /* builder: (state) {
                 return Column(children: <Widget>[
                   Container(
                     height: 100,
@@ -145,7 +145,7 @@ class _NovaPessoaState extends State<NovaPessoa> {
                             );
                           }
                           return Container();
-                        }),
+                        }) ,
                   ),
                   if(state.hasError)
                     Container(
@@ -158,7 +158,7 @@ class _NovaPessoaState extends State<NovaPessoa> {
                     )
                 ],
                 );
-              },
+              },*/
               child: TextFormField(
                   controller: _nomeController,
                   decoration: InputDecoration(

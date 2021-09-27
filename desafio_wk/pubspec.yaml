@@ -49,6 +49,7 @@ dev_dependencies:
   brasil_fields: ^1.2.0
   validadores: ^1.0.2
   intl: ^0.17.0
+  flutter_spinkit: "^4.1.2"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
